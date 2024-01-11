@@ -7,6 +7,7 @@ description: |
   Reproduction d'un site avec HTML, CSS à partir d'une maquette.
 tags:
   - Developpement
+  - Front-End
 ---
 
 Reproduction au tout début de la formation, avec HTML et CSS d'une maquette avec un Header, un Footer et la gestion des positions avec le display flex. Code disponible sur mon Github <a href="https://github.com/Francismant/Au-pain-magique">Au pain magique</a>.

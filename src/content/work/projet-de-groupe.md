@@ -7,6 +7,7 @@ description: |
   Elaboration dans le cadre d'un projet de groupe d'un site fictif responsive comportant uniquement la partie front.
 tags:
   - Developpement
+  - Front-End
   - Responsive
 ---
 

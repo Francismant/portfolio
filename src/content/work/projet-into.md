@@ -7,6 +7,7 @@ description: |
   Reproduction d'un site avec HTML, CSS et Javascript à partir d'une maquette.
 tags:
   - Developpement
+  - Front-End
   - Responsive
 ---
 

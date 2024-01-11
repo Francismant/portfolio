@@ -7,6 +7,7 @@ description: |
   Reproduction d'un site avec HTML, CSS à partir d'une maquette.
 tags:
   - Developpement
+  - Front-End
 ---
 
 Reproduction pendant la formation, avec HTML et CSS d'une maquette avec un Header, un Footer et la gestion des positions. Code disponible sur mon Github <a href="https://github.com/Francismant/lemarche">Le marché</a>.
