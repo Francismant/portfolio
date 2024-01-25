@@ -4,7 +4,7 @@ publishDate: 2024-01-25 00:00:00
 img: /assets/projet-final.png
 img_alt: Maquette représentant un site de de danse latine avec des danseurs et danseuses.
 description: |
-  Site Web décrivant une écolde de danse latine fictive sur Lille.
+  Réalisation pour l'examen de formation d'un site Web décrivant une école de danse latine fictive sur Lille.
 tags:
   - Developpement
   - Front-End
