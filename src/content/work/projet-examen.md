@@ -1,7 +1,7 @@
 ---
 title: Projet final examen
 publishDate: 2024-01-25 00:00:00
-img: /assets/projet-final.jpg
+img: /assets/projet-final.png
 img_alt: Maquette représentant un site de de danse latine avec des danseurs et danseuses.
 description: |
   Site Web décrivant une écolde de danse latine fictive sur Lille.
